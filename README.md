@@ -118,7 +118,17 @@ Check GPS wiring, antenna placement, and ensure open-sky visibility.
 * Real-Time Telemetry Monitoring
 * Web Dashboard
 * Deep Learning-Based Fault Detection
-* Autonomous Maintenance Recommendations
+* Autonomous Maintenance Recommendations## 📸 Application Preview
+
+### Home Screen
+
+![Home Screen](gui_home.png)
+
+### Diagnosis Result
+
+![Diagnosis Result](diagnosis%20result.png)
+
+* 
 
 ---
 
